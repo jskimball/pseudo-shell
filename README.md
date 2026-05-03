@@ -1,4 +1,4 @@
-# Basic Shell
+# Pseudo Shell
 
 A simple command-line shell implementation written in C. This shell supports basic file system operations and can run in interactive mode or process commands from a file.
 
